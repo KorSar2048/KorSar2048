@@ -1,2 +1,3 @@
-Hi, I’m @KorSar2048!
+Java, C, Python Developer!
+
 
